@@ -1,0 +1,4 @@
+Image Gallery App is a responsive web application designed to showcase an image carousel, team profiles, featured blog posts and a footer. The app is built using Bootstrap to ensure it looks great on devices of all screen sizes from desktop to mobile devices.
+Technologies used: FrontEnd(HTML,CSS, Bootstrap)
+Responsive design(Bootstrap Grid System, Flexbox)
+Javascript: Carousel functionality and manual controls)
